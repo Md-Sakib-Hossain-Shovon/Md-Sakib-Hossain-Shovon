@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>*Lead Researcher @Advanced Machine Intelligence Research Lab (AMIR Lab)  <br>*Ex-Trainee Machine Learning Engineer @Govt. EDGE Project associated with Headblocks, BCC, IIT-DU <br>*Ex-Research Assistant (RA) at American International University-Bangladesh<br>*Team Member at IEEE AIUB Student Branch<br>*Team Member at AIUB Computer Club<br>*BSc Fresh Graduate In Computer Science & Engineering-Major in Information Systems at American International University-Bangladesh<br>*Studied at Khulna Public College 
+<br>*Core Computer Vision & XAI Researcher<br>*Lead Researcher @Advanced Machine Intelligence Research Lab (AMIR Lab)  <br>*Ex-Trainee Machine Learning Engineer @Govt. EDGE Project associated with Headblocks, BCC, IIT-DU <br>*Ex-Research Assistant (RA) at American International University-Bangladesh<br>*Team Member at IEEE AIUB Student Branch<br>*Team Member at AIUB Computer Club<br>*BSc Fresh Graduate In Computer Science & Engineering-Major in Information Systems at American International University-Bangladesh<br>*Studied at Khulna Public College 
 
 
 ## 🌐 Socials:
